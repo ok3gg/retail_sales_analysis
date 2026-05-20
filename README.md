@@ -74,13 +74,20 @@ Dashboard features include:
 - interactive Plotly charts
 
 
+
+
 ## Dashboard Preview
+
+
 
 ![Dashboard Screenshot](images/dashboard_1.png)
 
 ![Dashboard Screenshot](images/dashboard_2.png)
 
 ![Dashboard Screenshot](images/dashboard_3.png)
+
+
+
 
 ## Project Structure
 

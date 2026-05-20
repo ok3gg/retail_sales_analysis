@@ -79,6 +79,7 @@ Dashboard features include:
 
 ## Project Structure
 
+```
 project/
 │
 ├── src/
@@ -86,8 +87,6 @@ project/
 │   └── app.py
 │
 ├── data/
-│   └──train.csv
-│  
 │
 ├── images/
 │   └── dashboard.png
@@ -95,3 +94,4 @@ project/
 ├── README.md
 │
 └── requirements.txt
+```

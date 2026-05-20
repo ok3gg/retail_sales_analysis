@@ -71,7 +71,7 @@ Dashboard features include:
 - historical sales visualization
 - future sales forecasting
 - operational KPI metrics
-- interactive Plotly charts
+- interactive Plotly chart
 
 <br>
 

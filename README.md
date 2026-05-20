@@ -73,12 +73,11 @@ Dashboard features include:
 - operational KPI metrics
 - interactive Plotly charts
 
-
-
+<br>
 
 ## Dashboard Preview
 
-
+<br>
 
 ![Dashboard Screenshot](images/dashboard_1.png)
 
@@ -86,8 +85,7 @@ Dashboard features include:
 
 ![Dashboard Screenshot](images/dashboard_3.png)
 
-
-
+<br>
 
 ## Project Structure
 
